@@ -1,0 +1,43 @@
+.nav-list-link {
+font-family: Playfair Display;
+font-size: 14px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+color: #7D7D7D;
+
+}
+ul {
+    list-style: none;
+}
+.photo-list-item {
+    max-width: 420px;
+}
+.nav-list {
+    display: flex;
+    justify-content: center;
+    gap: 99px;
+}
+.photo-list {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 65px;
+}
+.button {
+    display: block;
+    margin: 0 auto;
+}
+.photo-list-text {
+    font-family: Ubuntu;
+font-size: 14px;
+font-weight: 300;
+line-height: 16px;
+letter-spacing: 0em;
+text-align: left;
+color:#B4AD9E;
+}
+.nav-list-link {
+    text-decoration: none;
+}
